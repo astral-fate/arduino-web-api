@@ -4,10 +4,10 @@ The second task for Smart Method Summer Training Summer Program, for Interntet o
 
 
 ## Table Of Content
-1. [ESP32 Algorithm](#ESP32-Algorithm)
-2. [Downloding Arduino IDE](#Downloding-Arduino-IDE)
-3. [Data Analyst with SQL Server](#data-analyst-with-sql-server)
-4. [Data Science for Everyone](#data-science-for-everyone)
+1. [Downloding Arduino IDE](#Downloding-Arduino-IDE) 
+2. [Adjusting the Settings for ESP32](#Adjusting-the-Settings-for-ESP32)
+3. [Connecting ESP32 To WiFi ](#Connecting-ESP32-To-WiFi)
+4. [Writing ESP32 Algorithm](#Writing-ESP32-Algorithm)
 4. [References](references)
 
 
@@ -28,6 +28,8 @@ https://www.arduino.cc/en/software/
 </p>
 
 
+
+##  Adjusting the Settings for ESP32 
 
 <p align="center">
   <img width="234" alt="image" src="https://user-images.githubusercontent.com/63984422/181009179-90beeaf9-aa4a-4623-b658-50d8cd025d0e.png">
