@@ -29,13 +29,14 @@ https://www.arduino.cc/en/software/
 
 
 
-##  Adjusting the Settings for ESP32 
+
 
 <p align="center">
   <img width="234" alt="image" src="https://user-images.githubusercontent.com/63984422/181009179-90beeaf9-aa4a-4623-b658-50d8cd025d0e.png">
-
-
 </p>
+
+
+##  Adjusting the Settings for ESP32 
 
 
 <p align="center">
