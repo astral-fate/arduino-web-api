@@ -10,3 +10,13 @@ First we have to downlod Arduino IDE
 
 
 ![image](https://user-images.githubusercontent.com/63984422/181006271-9c9881cb-8973-4dbb-b05a-f9e7d4789673.png)
+
+
+
+![image](https://user-images.githubusercontent.com/63984422/181007096-6e91cc4f-afd9-4928-b373-e0f7ca68d532.png)
+
+
+![image](https://user-images.githubusercontent.com/63984422/181007360-aa728b99-a5a5-4650-9904-222084bdcdf6.png)
+
+
+![image](https://user-images.githubusercontent.com/63984422/181007382-5c06e221-2c18-49b3-bba6-3c495115434f.png)
