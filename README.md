@@ -44,7 +44,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 
 <p align="center">
-  <img width="384" alt="image" src="https://user-images.githubusercontent.com/63984422/181008847-3f443d0f-f6e3-4c1a-8096-a5b62ba38aad.png">
+  <img width="603" alt="image" src="https://user-images.githubusercontent.com/63984422/181018515-1e612c87-f849-4c0b-acbc-9b99ac92fa6d.png">
 </p>
 
 
