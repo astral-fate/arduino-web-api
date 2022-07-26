@@ -1,17 +1,18 @@
 # arduino-wep-api
 
-The second task for Smart Method Summer Training, for Interntet of Things, and Data
+The second task for Smart Method Summer Training, for Interntet of Things, and Data Systems
 
-# Contents
-## Career Tracks 
+
+## Table Of Content
 1. [ESP32 Algorithm](#ESP32-Algorithm)
-2. [Data Analyst with Python](#data-analyst-with-python)
+2. [Downloding Arduino IDE](#Downloding-Arduino-IDE)
 3. [Data Analyst with SQL Server](#data-analyst-with-sql-server)
 4. [Data Science for Everyone](#data-science-for-everyone)
 4. [Machine Learning Scientist with Python](#machine-learning-scientist-with-python)
 
-## Skill Tracks
 
+
+## Downloding Arduino IDE
 
 First we have to downlod Arduino IDE
 
