@@ -71,3 +71,4 @@ Now we can see that our configuration for ESP32 is set
 
 1. https://www.arduino.cc/en/software
 2. https://youtu.be/25NyDmQwFXg
+3. https://github.com/kira-Developer?tab=repositories
