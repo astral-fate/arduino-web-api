@@ -36,7 +36,11 @@ https://www.arduino.cc/en/software/
 </p>
 
 
-##  Adjusting the Settings for ESP32 
+##  Configuring the Settings for ESP32 
+
+Second we have to configur the Arduino IDE to support ESP32. We have to dowlnlad the pakkage from here:
+https://dl.espressif.com/dl/package_esp32_index.json
+
 
 
 <p align="center">
@@ -45,10 +49,11 @@ https://www.arduino.cc/en/software/
 
 
 
-
+Then we have to install it
 <p align="center">
   <img width="384" alt="image" src="https://user-images.githubusercontent.com/63984422/181008986-9c3f821a-8c51-4e91-872c-2e90540382b4.png">
 </p>
+
 
 
 <p align="center">
@@ -56,6 +61,7 @@ https://www.arduino.cc/en/software/
 </p>
 
 
+Now we can see that our configuration for ESP32 is set 
 <p align="center">
   <img width="595" alt="image" src="https://user-images.githubusercontent.com/63984422/181008540-4aea24ae-71a0-47be-bfe4-967353e6bbc5.png">
 </p>
