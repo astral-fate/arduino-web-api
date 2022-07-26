@@ -67,7 +67,7 @@ Now we can see that our configuration for ESP32 is set
 </p>
 
 
-##  References
+##  References 
 
 1. https://www.arduino.cc/en/software
-2. 
+2. https://youtu.be/25NyDmQwFXg
