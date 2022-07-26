@@ -5,10 +5,10 @@ The second task for Smart Method Summer Training Summer Program, for Interntet o
 
 ## Table Of Content
 1. [Downloding Arduino IDE](#Downloding-Arduino-IDE) 
-2. [Adjusting the Settings for ESP32](#Adjusting-the-Settings-for-ESP32)
+2. [Configuring the Settings for ESP32](#Configuring-the-Settings-for-ESP32)
 3. [Connecting ESP32 To WiFi ](#Connecting-ESP32-To-WiFi)
 4. [Writing ESP32 Algorithm](#Writing-ESP32-Algorithm)
-4. [References](references)
+4. [References](#References)
 
 
 
