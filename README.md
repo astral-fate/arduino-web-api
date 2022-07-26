@@ -1,11 +1,17 @@
 # arduino-wep-api
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+The second task for Smart Method Summer Training, for Interntet of Things, and Data
+
+# Contents
+## Career Tracks 
+1. [ESP32 Algorithm](#ESP32-Algorithm)
+2. [Data Analyst with Python](#data-analyst-with-python)
+3. [Data Analyst with SQL Server](#data-analyst-with-sql-server)
+4. [Data Science for Everyone](#data-science-for-everyone)
+4. [Machine Learning Scientist with Python](#machine-learning-scientist-with-python)
+
+## Skill Tracks
+
 
 First we have to downlod Arduino IDE
 
