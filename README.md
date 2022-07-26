@@ -2,6 +2,10 @@
 
 First we have to downlod Arduino IDE
 
+<p align="center">
+  <img width="261" alt="image" src="https://user-images.githubusercontent.com/63984422/181009295-bbc34c55-f779-47ab-83a7-b5fe6f7e5d24.png">
+</p>
+
 <img width="261" alt="image" src="https://user-images.githubusercontent.com/63984422/181009295-bbc34c55-f779-47ab-83a7-b5fe6f7e5d24.png">
 
 <img width="158" alt="image" src="https://user-images.githubusercontent.com/63984422/181009234-569204d2-975c-4ad0-b73f-ecc7ece85e26.png">
