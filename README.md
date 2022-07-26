@@ -1,6 +1,6 @@
-# arduino-wep-api
+# Arduino-web-api
 
-The second task for Smart Method Summer Training, for Interntet of Things, and Data Systems
+The second task for Smart Method Summer Training Summer Program, for Interntet of Things, and Data Systems
 
 
 ## Table Of Content
@@ -8,13 +8,15 @@ The second task for Smart Method Summer Training, for Interntet of Things, and D
 2. [Downloding Arduino IDE](#Downloding-Arduino-IDE)
 3. [Data Analyst with SQL Server](#data-analyst-with-sql-server)
 4. [Data Science for Everyone](#data-science-for-everyone)
-4. [Machine Learning Scientist with Python](#machine-learning-scientist-with-python)
+4. [References](references)
 
 
 
-## Downloding Arduino IDE
+##  Downloding Arduino IDE
 
-First we have to downlod Arduino IDE
+First we have to downlod Arduino IDE, we can downlod it from:
+
+https://www.arduino.cc/en/software/
 
 <p align="center">
   <img width="261" alt="image" src="https://user-images.githubusercontent.com/63984422/181009295-bbc34c55-f779-47ab-83a7-b5fe6f7e5d24.png">
@@ -55,3 +57,8 @@ First we have to downlod Arduino IDE
   <img width="595" alt="image" src="https://user-images.githubusercontent.com/63984422/181008540-4aea24ae-71a0-47be-bfe4-967353e6bbc5.png">
 </p>
 
+
+##  References
+
+1. https://www.arduino.cc/en/software
+2. 
