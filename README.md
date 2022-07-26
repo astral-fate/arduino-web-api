@@ -18,8 +18,7 @@ First we have to downlod Arduino IDE
 
 ![image](https://user-images.githubusercontent.com/63984422/181007360-aa728b99-a5a5-4650-9904-222084bdcdf6.png)
 
-
-![image](https://user-images.githubusercontent.com/63984422/181007382-5c06e221-2c18-49b3-bba6-3c495115434f.png)
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/63984422/181008684-9d069c4c-81d9-4d9e-ae4a-13db023fb3a9.png">
 
 
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/63984422/181008540-4aea24ae-71a0-47be-bfe4-967353e6bbc5.png">
